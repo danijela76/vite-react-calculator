@@ -4,7 +4,7 @@ Mini web kalkulator razvijen kao domaći zadatak iz predmeta **Osnove distribuir
 
 ## 🔗 Live verzija
 
-> https://vite-react-calculator-zzug.vercel.app
+> [https://vite-react-calculator-zzug.vercel.app](https://vite-react-calculator-t2fb.vercel.app/)
 
 ## 📋 Opis projekta
 
