@@ -1,4 +1,4 @@
-import type { MathOp } from '../types';
+import type { MathOp } from '../../types';
 
 const compute: Record<MathOp, (a: number, b: number) => number | null> = {
   '+': (a, b) => a + b,
